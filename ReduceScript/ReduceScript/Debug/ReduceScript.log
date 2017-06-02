@@ -1,0 +1,5 @@
+﻿  Main.cpp
+c:\users\butam\workspace\гистограмма(индив. зад.)\reducescript\reducescript\main.cpp(11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\butam\workspace\гистограмма(индив. зад.)\reducescript\reducescript\main.cpp(9): warning C4101: 'col': unreferenced local variable
+  ReduceScript.vcxproj -> C:\Users\butam\workspace\Гистограмма(Индив. зад.)\ReduceScript\Debug\ReduceScript.exe
+  ReduceScript.vcxproj -> C:\Users\butam\workspace\Гистограмма(Индив. зад.)\ReduceScript\Debug\ReduceScript.pdb (Full PDB)
