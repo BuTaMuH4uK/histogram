@@ -15,7 +15,7 @@ public class Main {
 	final static String input = "C:\\Users\\butam\\workspace\\Гистограмма(Индив. зад.)\\Keys.txt";	// входной файл
 	final static String answer = "C:\\Users\\butam\\workspace\\Гистограмма(Индив. зад.)\\endFile.txt";		// файл ответа
 	final static String locationMap = "C:\\Users\\butam\\workspace\\Гистограмма(Индив. зад.)\\MapScript2\\Debug\\MapScript2.exe";	// скрипт - Map
-	final static String locationReduce = "C:\\Users\\butam\\workspace\\Гистограмма(Индив. зад.)\\ReduceScript\\Debug\\ReduceScript.exe";	// скрипт - Reduce
+	final static String locationReduce = "C:\\Users\\butam\\workspace\\Гистограмма(Индив. зад.)\\ReduceScript2\\Debug\\ReduceScript.exe";	// скрипт - Reduce
 	final static String locationGenerateCountColumn = "C:\\Users\\butam\\workspace\\Гистограмма(Индив. зад.)\\GenerateCountColumnScript\\Debug\\GenerateCountColumnScript.exe";	// скрипт - GenerateCountColumnScript
 	final static String locationGenerateKeys = "C:\\Users\\butam\\workspace\\Гистограмма(Индив. зад.)\\GenerateKeysScript\\Debug\\GenerateKeysScript.exe";	// скрипт - GenerateKeysScript
 	final static String locationGenerateCountKey = "C:\\Users\\butam\\workspace\\Гистограмма(Индив. зад.)\\GenerateCountKeyScript\\Debug\\GenerateCountKeyScript.exe";	// скрипт - GenerateCountKey
