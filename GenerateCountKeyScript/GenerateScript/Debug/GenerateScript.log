@@ -1,0 +1,4 @@
+﻿  Main.cpp
+c:\users\butam\workspace\гистограмма(индив. зад.)\generatecountkeyscript\generatescript\main.cpp(8): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  GenerateScript.vcxproj -> C:\Users\butam\workspace\Гистограмма(Индив. зад.)\GenerateCountKeyScript\Debug\GenerateCountKeyScript.exe
+  GenerateScript.vcxproj -> C:\Users\butam\workspace\Гистограмма(Индив. зад.)\GenerateCountKeyScript\Debug\GenerateCountKeyScript.pdb (Full PDB)

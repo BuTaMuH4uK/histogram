@@ -1,0 +1,5 @@
+﻿  Main.cpp
+c:\users\butam\workspace\гистограмма(индив. зад.)\generatekeysscript\generatekeysscript\main.cpp(12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\butam\workspace\гистограмма(индив. зад.)\generatekeysscript\generatekeysscript\main.cpp(10): warning C4101: 'num': unreferenced local variable
+  GenerateKeysScript.vcxproj -> C:\Users\butam\workspace\Гистограмма(Индив. зад.)\GenerateKeysScript\Debug\GenerateKeysScript.exe
+  GenerateKeysScript.vcxproj -> C:\Users\butam\workspace\Гистограмма(Индив. зад.)\GenerateKeysScript\Debug\GenerateKeysScript.pdb (Full PDB)
